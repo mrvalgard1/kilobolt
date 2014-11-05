@@ -27,7 +27,7 @@ public class StartingClass extends Applet implements Runnable, KeyListener {
 		setFocusable(true);
 		 addKeyListener(this);
 		Frame frame = (Frame) this.getParent().getParent();
-		frame.setTitle("Q-Bot Alpha");
+		frame.setTitle("Osom gejm");
 		
 		try{
 			base = getDocumentBase();
